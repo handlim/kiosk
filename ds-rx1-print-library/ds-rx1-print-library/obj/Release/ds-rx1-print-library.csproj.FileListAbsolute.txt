@@ -1,0 +1,6 @@
+C:\Users\김만기\source\repos\ds-rx1-print-library\ds-rx1-print-library\bin\Release\ds-rx1-print-library.dll
+C:\Users\김만기\source\repos\ds-rx1-print-library\ds-rx1-print-library\bin\Release\ds-rx1-print-library.pdb
+C:\Users\김만기\source\repos\ds-rx1-print-library\ds-rx1-print-library\obj\Release\ds-rx1-print-library.csproj.CoreCompileInputs.cache
+C:\Users\김만기\source\repos\ds-rx1-print-library\ds-rx1-print-library\obj\Release\ds-rx1-print-library.dll
+C:\Users\김만기\source\repos\ds-rx1-print-library\ds-rx1-print-library\obj\Release\ds-rx1-print-library.pdb
+C:\Users\김만기\source\repos\ds-rx1-print-library\ds-rx1-print-library\obj\Release\ds-rx1-print-library.csprojAssemblyReference.cache

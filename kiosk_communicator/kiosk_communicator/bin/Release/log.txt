@@ -1,0 +1,140 @@
+2018-09-14 오후 6:50:14
+Function Name : InitSocket
+System.Threading.ThreadAbortException: 스레드가 중단되었습니다.
+   위치: System.Net.Sockets.Socket.Accept()
+   위치: System.Net.Sockets.TcpListener.AcceptTcpClient()
+   위치: kiosk_communicator.Main.InitSocket() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\Main.cs:줄 49
+#########################################################################################################################################################################
+2018-09-14 오후 6:50:03
+Function Name : InitSocket
+System.Threading.ThreadAbortException: 스레드가 중단되었습니다.
+   위치: System.Net.Sockets.Socket.Accept()
+   위치: System.Net.Sockets.TcpListener.AcceptTcpClient()
+   위치: kiosk_communicator.Main.InitSocket() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\Main.cs:줄 49
+#########################################################################################################################################################################
+2018-09-14 오후 6:46:55
+Function Name : InitSocket
+System.Threading.ThreadAbortException: 스레드가 중단되었습니다.
+   위치: System.Net.Sockets.Socket.Accept()
+   위치: System.Net.Sockets.TcpListener.AcceptTcpClient()
+   위치: kiosk_communicator.Main.InitSocket() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\Main.cs:줄 49
+#########################################################################################################################################################################
+2018-09-14 오후 6:43:46
+Function Name : getMessageFromService
+System.Threading.ThreadAbortException: 스레드가 중단되었습니다.
+   위치: System.Threading.Thread.AbortInternal()
+   위치: System.Threading.Thread.Abort()
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 98
+#########################################################################################################################################################################
+2018-09-14 오후 6:43:46
+Function Name : getMessageFromService
+System.IO.IOException: 전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다. ---> System.Net.Sockets.SocketException: 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다
+   위치: System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- 내부 예외 스택 추적의 끝 ---
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 56
+#########################################################################################################################################################################
+2018-09-14 오후 6:06:03
+Function Name : getMessageFromService
+System.Threading.ThreadAbortException: 스레드가 중단되었습니다.
+   위치: System.Threading.Thread.AbortInternal()
+   위치: System.Threading.Thread.Abort()
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 98
+#########################################################################################################################################################################
+2018-09-14 오후 6:06:03
+Function Name : getMessageFromService
+System.IO.IOException: 전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다. ---> System.Net.Sockets.SocketException: 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다
+   위치: System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- 내부 예외 스택 추적의 끝 ---
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 56
+#########################################################################################################################################################################
+2018-09-14 오후 6:05:08
+Function Name : getMessageFromService
+System.Threading.ThreadAbortException: 스레드가 중단되었습니다.
+   위치: System.Threading.Thread.AbortInternal()
+   위치: System.Threading.Thread.Abort()
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 98
+#########################################################################################################################################################################
+2018-09-14 오후 6:05:08
+Function Name : getMessageFromService
+System.IO.IOException: 전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다. ---> System.Net.Sockets.SocketException: 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다
+   위치: System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- 내부 예외 스택 추적의 끝 ---
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 56
+#########################################################################################################################################################################
+2018-09-14 오후 5:11:15
+Function Name : getMessageFromService
+System.Threading.ThreadAbortException: 스레드가 중단되었습니다.
+   위치: System.Threading.Thread.AbortInternal()
+   위치: System.Threading.Thread.Abort()
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 98
+#########################################################################################################################################################################
+2018-09-14 오후 5:11:15
+Function Name : getMessageFromService
+System.IO.IOException: 전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다. ---> System.Net.Sockets.SocketException: 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다
+   위치: System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- 내부 예외 스택 추적의 끝 ---
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 56
+#########################################################################################################################################################################
+2018-09-14 오후 5:11:15
+Function Name : getMessageFromService
+System.IO.IOException: 전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다. ---> System.Net.Sockets.SocketException: 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다
+   위치: System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- 내부 예외 스택 추적의 끝 ---
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 56
+#########################################################################################################################################################################
+2018-09-14 오후 5:10:34
+Function Name : getMessageFromService
+System.Threading.ThreadAbortException: 스레드가 중단되었습니다.
+   위치: System.Threading.Thread.AbortInternal()
+   위치: System.Threading.Thread.Abort()
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 98
+#########################################################################################################################################################################
+2018-09-14 오후 5:10:34
+Function Name : getMessageFromService
+System.IO.IOException: 전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다. ---> System.Net.Sockets.SocketException: 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다
+   위치: System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- 내부 예외 스택 추적의 끝 ---
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 56
+#########################################################################################################################################################################
+2018-09-14 오후 5:09:56
+Function Name : getMessageFromService
+System.Threading.ThreadAbortException: 스레드가 중단되었습니다.
+   위치: System.Threading.Thread.AbortInternal()
+   위치: System.Threading.Thread.Abort()
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 98
+#########################################################################################################################################################################
+2018-09-14 오후 5:09:56
+Function Name : getMessageFromService
+System.IO.IOException: 전송 연결 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다에서 데이터를 읽을 수 없습니다. ---> System.Net.Sockets.SocketException: 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다
+   위치: System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- 내부 예외 스택 추적의 끝 ---
+   위치: System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 56
+#########################################################################################################################################################################
+2018-09-14 오후 5:09:25
+Function Name : getMessageFromService
+System.Threading.ThreadAbortException: 스레드가 중단되었습니다.
+   위치: System.Threading.Thread.AbortInternal()
+   위치: System.Threading.Thread.Abort()
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 98
+#########################################################################################################################################################################
+2018-09-14 오후 5:09:25
+Function Name : getMessageFromService
+System.Threading.ThreadAbortException: 스레드가 중단되었습니다.
+   위치: System.Threading.Thread.AbortInternal()
+   위치: System.Threading.Thread.Abort()
+   위치: kiosk_communicator.HandleSocket.getMessageFromService() 파일 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\HandleSocket.cs:줄 98
+
