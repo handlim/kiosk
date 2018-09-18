@@ -11,3 +11,16 @@ C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\obj\Debug\
 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\obj\Debug\kiosk_communicator.csproj.CopyComplete
 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\obj\Debug\kiosk_communicator.exe
 C:\Users\김만기\source\repos\kiosk_communicator\kiosk_communicator\obj\Debug\kiosk_communicator.pdb
+C:\_Source\kiosk\kiosk_communicator\kiosk_communicator\bin\Debug\kiosk_communicator.exe.config
+C:\_Source\kiosk\kiosk_communicator\kiosk_communicator\bin\Debug\kiosk_communicator.exe
+C:\_Source\kiosk\kiosk_communicator\kiosk_communicator\bin\Debug\kiosk_communicator.pdb
+C:\_Source\kiosk\kiosk_communicator\kiosk_communicator\bin\Debug\ds-rx1-print-library.dll
+C:\_Source\kiosk\kiosk_communicator\kiosk_communicator\bin\Debug\ds-rx1-print-library.pdb
+C:\_Source\kiosk\kiosk_communicator\kiosk_communicator\obj\Debug\kiosk_communicator.csprojAssemblyReference.cache
+C:\_Source\kiosk\kiosk_communicator\kiosk_communicator\obj\Debug\kiosk_communicator.Main.resources
+C:\_Source\kiosk\kiosk_communicator\kiosk_communicator\obj\Debug\kiosk_communicator.Properties.Resources.resources
+C:\_Source\kiosk\kiosk_communicator\kiosk_communicator\obj\Debug\kiosk_communicator.csproj.GenerateResource.cache
+C:\_Source\kiosk\kiosk_communicator\kiosk_communicator\obj\Debug\kiosk_communicator.csproj.CoreCompileInputs.cache
+C:\_Source\kiosk\kiosk_communicator\kiosk_communicator\obj\Debug\kiosk_communicator.csproj.CopyComplete
+C:\_Source\kiosk\kiosk_communicator\kiosk_communicator\obj\Debug\kiosk_communicator.exe
+C:\_Source\kiosk\kiosk_communicator\kiosk_communicator\obj\Debug\kiosk_communicator.pdb
